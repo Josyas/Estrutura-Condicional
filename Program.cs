@@ -11,9 +11,10 @@ namespace Exercícios_Estrutura_Condicional_03 {
 
         if (A % B == 0 || B % A == 0) {
                 Console.WriteLine("São Multiplos");
-            } else {
+        } 
+		else {
                 Console.WriteLine("Não são Multiplos");
-            }
+        }
             
 
         }
